@@ -55,3 +55,7 @@ pip install python-pptx
 ```bash
 python app2.py
 ````
+
+## Acknowledgements
+
+This project was inspired by and forked from [FIRST-South-Carolina/obs-ftc-stream-manager](https://github.com/FIRST-South-Carolina/obs-ftc-stream-manager). A special thanks to the original developers for their foundational work, which made this tool possible.
